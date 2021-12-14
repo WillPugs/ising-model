@@ -1,7 +1,7 @@
 # stat-mech-monte-carlo
  Computer simulation using Monte Carlo Methods to estimate the long-term thermodynamic behavior of various models in statistical mechanics and estimate critical exponents near phase transitions.
  
- Models simulated: Ising model (1D, 2D, 3D)
+ Models simulated: Ising model (1D, 2D, 3D, arbitrary higher dimensions), XY model (1D, 2D).
  
  Models planned: 4D+ Ising model, XY model, Heisenberg model, n-vector model in arbitrary dimensions.
  
