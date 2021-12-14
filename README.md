@@ -3,6 +3,6 @@
  
  Models simulated: Ising model (1D, 2D, 3D, arbitrary higher dimensions), XY model (1D, 2D).
  
- Models planned: 4D+ Ising model, XY model, Heisenberg model, n-vector model in arbitrary dimensions.
+ Models planned: Heisenberg model, n-vector model in arbitrary dimensions.
  
  The my_math.py module is a custom math module that I made to help with the implementation of this and other projects. See https://github.com/WillPugs/custom-math-module for more details.
